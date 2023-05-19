@@ -1,4 +1,4 @@
-# frontend-tic-tac-toe-game
+# Frontend-tic-tac-toe-game
 
 <img width="889" alt="Screenshot 2023-05-19 at 14 11 48" src="https://github.com/DamarisJean/frontend-tic-tac-toe-game/assets/128718325/77527b23-47bc-41a0-9caf-1a11d2805c59">
 
